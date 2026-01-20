@@ -18,5 +18,3 @@ Responsive Blinkit UI clone built using **HTML & CSS**.
 - Clean and simple UI
 
 ---
-
-## 📁 Project Structure
